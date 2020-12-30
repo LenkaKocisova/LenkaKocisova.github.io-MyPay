@@ -1608,20 +1608,16 @@ hr {
 
 .btn-dark {
   color: #ffffff;
-  background-color: #383340;
+  font-weight: 500;
+  background-color: #f18c2d;
   border-color: transparent !important;
+  border-radius: 49px;
 }
 
 .btn-dark:hover {
   color: #ffffff;
-  background-color: #242129;
+  background-color: #d17e01;
   box-shadow: 0 4px 12px rgba(56, 51, 64, 0.3);
-}
-
-.btn-dark:focus {
-  color: #ffffff;
-  background-color: #242129;
-  box-shadow: none;
 }
 
 .btn-dark.disabled,
